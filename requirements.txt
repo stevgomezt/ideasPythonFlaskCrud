@@ -1,0 +1,28 @@
+# Dependencias
+Flask==3.0.0
+Flask-Bootstrap==3.3.7.1
+Flask-WTF==0.14.3
+Flask-Testing==0.8.1
+Flask-SQLAlchemy==2.4.4
+Flask-Login==0.4.1
+Flask-FontAwesome==0.1.5
+marshmallow-sqlalchemy==0.24.1
+email-validator==1.1.2
+# Instalaciones segundo plano
+blinker==1.6.2
+click==8.1.7
+colorama==0.4.6
+dnspython==2.4.2
+dominate==2.8.0
+greenlet==3.0.0
+idna==3.4
+itsdangerous==2.1.2
+Jinja2==3.1.2
+MarkupSafe==2.1.3
+marshmallow==3.20.1
+packaging==23.2
+SQLAlchemy==2.0.21
+typing_extensions==4.8.0
+visitor==0.1.3
+Werkzeug==3.0.0
+WTForms==3.0.1
