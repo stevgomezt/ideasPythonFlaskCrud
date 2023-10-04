@@ -1,0 +1,41 @@
+*   Tutorial
+    https://www.youtube.com/watch?v=gSOx10QSRM4&list=PLoEipode16BEyTnhT69wK1GB70MzDvAL6&index=1&pp=iAQB&ab_channel=AsperosGeek
+    
+*   Flask==3.0.0: 
+    Flask es un microframework de Python para crear aplicaciones web. Se utiliza para gestionar rutas, vistas y controladores en una aplicación web Flask.
+
+*   Flask-Bootstrap==3.3.7.1: 
+    Flask-Bootstrap es una extensión que integra Bootstrap con Flask. Bootstrap es una biblioteca de CSS y JavaScript que facilita la creación de interfaces de usuario atractivas y responsivas.
+
+*   Flask-WTF==0.14.3: 
+    Flask-WTF es una extensión que proporciona integración con WTForms para la gestión de formularios en aplicaciones Flask.
+
+*   Flask-Testing==0.8.1: 
+    Flask-Testing es una extensión que simplifica las pruebas unitarias en aplicaciones Flask, permitiendo simular solicitudes HTTP y realizar pruebas sobre ellas.
+
+*   Flask-SQLAlchemy==2.4.4: 
+    Flask-SQLAlchemy es una extensión que facilita la integración de SQLAlchemy con Flask, lo que permite interactuar con bases de datos relacionales de manera sencilla.
+
+*   Flask-Login==0.4.1: 
+    Flask-Login es una extensión para la gestión de sesiones de usuario y autenticación en aplicaciones Flask.
+
+*   Flask-FontAwesome==0.1.5: 
+    Flask-FontAwesome es una extensión que proporciona acceso a iconos de FontAwesome para su uso en aplicaciones Flask.
+
+*   marshmallow-sqlalchemy==0.24.1: 
+    marshmallow-sqlalchemy es una extensión que integra marshmallow con SQLAlchemy para la serialización y deserialización de objetos SQLAlchemy.
+
+*   email-validator==1.1.2: 
+    email-validator es una librería que ayuda a validar direcciones de correo electrónico.
+
+*   Jinja2==3.1.2: 
+    Jinja2 es el motor de plantillas utilizado por Flask para generar contenido dinámico en las vistas.
+
+*   SQLAlchemy==2.0.21: 
+    SQLAlchemy es una biblioteca de Python para la gestión de bases de datos relacionales.
+
+*   Werkzeug==3.0.0: 
+    Werkzeug es una biblioteca que Flask utiliza internamente para manejar solicitudes HTTP.
+
+*   WTForms==3.0.1: 
+    WTForms es una biblioteca de Python para la creación y validación de formularios web.

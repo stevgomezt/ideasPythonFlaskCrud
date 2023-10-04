@@ -1,5 +1,7 @@
-`* Instalar nodejs
+* Instalar nodejs
 * Instalar python
+
+* Habilitar la ejecucion de scripts desde power shell Set-ExecutionPolicy RemoteSigned
 
 * Crear entorno virtual
     - dentro de la ruta del proyecto abrir consola y ejecutar pip install virtualenv
